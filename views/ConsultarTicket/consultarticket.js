@@ -118,7 +118,7 @@ $(document).ready(function(){
 });
 
 function ver(tick_id){
-    window.open('http://localhost/HelpDesk/views/DetalleTicket/?ID='+ tick_id +'');
+    window.open('http://calidadsoftware.tk/helpdesk/views/DetalleTicket/?ID='+ tick_id +'');
 }
 
 init();
